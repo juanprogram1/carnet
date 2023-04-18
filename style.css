@@ -1,0 +1,18 @@
+.contenedor{
+    text-align: center;
+    margin: 100px;
+    margin-right: 450px;
+    margin-left: 450px;
+    border: 4px solid #0a1313;
+}
+.hijo{
+    margin: 30px;
+}
+.parrafo{
+
+    text-align: left;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
